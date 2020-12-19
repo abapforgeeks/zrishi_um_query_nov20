@@ -1,0 +1,4 @@
+@EndUserText.label: 'QUERY'
+define service ZRISHI_SD_UM_QUERY {
+  expose ZRISHI_QUERY_SAMPLE;
+}
